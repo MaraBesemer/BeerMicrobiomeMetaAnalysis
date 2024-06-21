@@ -1,0 +1,305 @@
+sample_id	beer	country	brewery
+SRR11032273	Sesotho 	Lesotho	Thaba-Tseka
+SRR11032274	Sesotho 	Lesotho	Thaba-Tseka
+SRR11032275	Sesotho 	Lesotho	Thaba-Tseka
+SRR11032276	Sesotho 	Lesotho	Thaba-Tseka
+SRR11032277	Sesotho 	Lesotho	Thaba-Tseka
+SRR11032278	Sesotho 	Lesotho	Butha-Buthe
+SRR11032279	Sesotho 	Lesotho	Butha-Buthe
+SRR11032280	Sesotho 	Lesotho	Maseru
+SRR11032281	Sesotho 	Lesotho	Maseru
+SRR11032282	Sesotho 	Lesotho	Maseru
+SRR11032283	Sesotho 	Lesotho	Maseru
+SRR11032284	Sesotho 	Lesotho	Maseru
+SRR11032285	Sesotho 	Lesotho	Butha-Buthe
+SRR11032286	Sesotho 	Lesotho	Mokhotlong
+SRR11032287	Sesotho 	Lesotho	Mokhotlong
+SRR11032288	Sesotho 	Lesotho	Mokhotlong
+SRR11032289	Sesotho 	Lesotho	Mokhotlong
+SRR11032290	Sesotho 	Lesotho	Mokhotlong
+SRR11032291	Sesotho 	Lesotho	Mafeteng
+SRR11032292	Sesotho 	Lesotho	Mafeteng
+SRR11032293	Sesotho 	Lesotho	Mafeteng
+SRR11032294	Sesotho 	Lesotho	Mafeteng
+SRR11032295	Sesotho 	Lesotho	Mafeteng
+SRR11032296	Sesotho 	Lesotho	Butha-Buthe
+SRR11032297	Sesotho 	Lesotho	Butha-Buthe
+SRR11038211	Sesotho 	Lesotho	Thaba-Tseka
+SRR11038212	Sesotho 	Lesotho	Thaba-Tseka
+SRR11038213	Sesotho 	Lesotho	Thaba-Tseka
+SRR11038214	Sesotho 	Lesotho	Thaba-Tseka
+SRR11038215	Sesotho 	Lesotho	Thaba-Tseka
+SRR11038216	Sesotho 	Lesotho	Butha-Buthe
+SRR11038217	Sesotho 	Lesotho	Butha-Buthe
+SRR11038218	Sesotho 	Lesotho	Maseru
+SRR11038219	Sesotho 	Lesotho	Maseru
+SRR11038220	Sesotho 	Lesotho	Maseru
+SRR11038221	Sesotho 	Lesotho	Maseru
+SRR11038222	Sesotho 	Lesotho	Maseru
+SRR11038223	Sesotho 	Lesotho	Butha-Buthe
+SRR11038224	Sesotho 	Lesotho	Mokhotlong
+SRR11038225	Sesotho 	Lesotho	Mokhotlong
+SRR11038226	Sesotho 	Lesotho	Mokhotlong
+SRR11038227	Sesotho 	Lesotho	Mokhotlong
+SRR11038228	Sesotho 	Lesotho	Mokhotlong
+SRR11038229	Sesotho 	Lesotho	Mafeteng
+SRR11038230	Sesotho 	Lesotho	Mafeteng
+SRR11038231	Sesotho 	Lesotho	Mafeteng
+SRR11038232	Sesotho 	Lesotho	Mafeteng
+SRR11038233	Sesotho 	Lesotho	Mafeteng
+SRR11038234	Sesotho 	Lesotho	Butha-Buthe
+SRR11038235	Sesotho 	Lesotho	Butha-Buthe
+SRR12823951	Sour Flanders Red Ale	Russia	Brewery G
+SRR12823952	Belgian Strong Dark Ale	Russia	Brewery F
+SRR12823954	Sour Ale	Russia	Brewery D
+SRR12823955	Sour Ale	Russia	Brewery C
+SRR12823957	American Wild Ale	Russia	Brewery C
+SRR12823958	Sour - Fruited	Russia	Brewery C
+SRR12823959	Sour - Fruited	Russia	Brewery C
+SRR12823962	American Wild Ale	Russia	Brewery H
+SRR12823963	American Wild Ale	Russia	Brewery H
+SRR12823964	American Wild Ale	Russia	Brewery A
+SRR12823965	Farmhouse Ale - Saison	Russia	Brewery B
+SRR12823967	Sour Flanders Red Ale	Russia	Brewery G
+SRR12823968	Belgian Strong Dark Ale	Russia	Brewery F
+SRR12823970	Sour Ale	Russia	Brewery D
+SRR12823971	Sour Ale	Russia	Brewery C
+SRR12823972	Farmhouse Ale - Saison	Russia	Brewery B
+SRR12823973	Farmhouse Ale - Sahti	Russia	Brewery B
+SRR12823974	Brett Beer	Russia	Brewery A
+SRR12823975	American Wild Ale	Russia	Brewery A
+SRR12823976	Farmhouse Ale - Sahti	Russia	Brewery B
+SRR12823978	American Wild Ale	Russia	Brewery C
+SRR12823979	Sour - Fruited	Russia	Brewery C
+SRR12823980	Sour - Fruited	Russia	Brewery C
+SRR12823983	American Wild Ale	Russia	Brewery H
+SRR12823984	American Wild Ale	Russia	Brewery H
+SRR12823985	American Wild Ale	Russia	Brewery A
+SRR12823987	Brett Beer	Russia	Brewery A
+SRR12823988	American Wild Ale	Russia	Brewery A
+SRR13173696	Stout Beer (9.64%)	Belgium	unkown
+SRR13173697	Stout Beer (9.64%)	Belgium	unkown
+SRR13173698	Stout Beer (9.64%)	Belgium	unkown
+SRR13173700	Stout Beer (9.64%)	Belgium	unkown
+SRR13173704	Blond Beer (3.12%)	Belgium	unkown
+SRR13173705	Blond Beer (3.12%)	Belgium	unkown
+SRR13173706	Blond Beer (3.12%)	Belgium	unkown
+SRR13173707	Blond Beer (3.12%)	Belgium	unkown
+SRR13173708	Blond Beer (3.12%)	Belgium	unkown
+SRR13173709	Blond Beer (3.12%)	Belgium	unkown
+SRR13173710	Blond Beer (3.12%)	Belgium	unkown
+SRR13173711	Stout Beer (9.64%)	Belgium	unkown
+SRR13173712	Blond Beer (3.12%)	Belgium	unkown
+SRR13173713	Blond Beer (3.12%)	Belgium	unkown
+SRR13173714	Blond Beer (3.12%)	Belgium	unkown
+SRR13173715	Blond Beer (3.12%)	Belgium	unkown
+SRR13173716	Blond Beer (3.12%)	Belgium	unkown
+SRR13173717	Blond Beer (3.12%)	Belgium	unkown
+SRR13173718	Blond Beer (3.12%)	Belgium	unkown
+SRR13173719	Blond Beer (3.12%)	Belgium	unkown
+SRR13173720	Blond Beer (3.12%)	Belgium	unkown
+SRR13173721	Blond Beer (3.12%)	Belgium	unkown
+SRR13173722	Stout Beer (9.64%)	Belgium	unkown
+SRR13173723	Blond Beer (3.12%)	Belgium	unkown
+SRR13173724	Blond Beer (3.12%)	Belgium	unkown
+SRR13173725	Blond Beer (8.88%)	Belgium	unkown
+SRR13173726	Blond Beer (8.88%)	Belgium	unkown
+SRR13173727	Blond Beer (8.88%)	Belgium	unkown
+SRR13173728	Blond Beer (8.88%)	Belgium	unkown
+SRR13173729	Blond Beer (8.88%)	Belgium	unkown
+SRR13173730	Blond Beer (8.88%)	Belgium	unkown
+SRR13173731	Blond Beer (8.88%)	Belgium	unkown
+SRR13173732	Blond Beer (8.88%)	Belgium	unkown
+SRR13173733	Stout Beer (9.64%)	Belgium	unkown
+SRR13173734	Blond Beer (8.88%)	Belgium	unkown
+SRR13173735	Blond Beer (8.88%)	Belgium	unkown
+SRR13173736	Blond Beer (8.88%)	Belgium	unkown
+SRR13173737	Blond Beer (8.88%)	Belgium	unkown
+SRR13173738	Blond Beer (8.88%)	Belgium	unkown
+SRR13173739	Blond Beer (8.88%)	Belgium	unkown
+SRR13173740	Blond Beer (8.88%)	Belgium	unkown
+SRR13173741	Blond Beer (8.88%)	Belgium	unkown
+SRR13173742	Blond Beer (8.88%)	Belgium	unkown
+SRR13173743	Blond Beer (8.88%)	Belgium	unkown
+SRR13173744	Stout Beer (9.64%)	Belgium	unkown
+SRR13173745	Blond Beer (8.88%)	Belgium	unkown
+SRR13173746	Stout Beer (9.64%)	Belgium	unkown
+SRR13173747	Stout Beer (9.64%)	Belgium	unkown
+SRR13173748	Stout Beer (9.64%)	Belgium	unkown
+SRR13173749	Stout Beer (9.64%)	Belgium	unkown
+SRR13173750	Stout Beer (9.64%)	Belgium	unkown
+SRR13173751	Stout Beer (9.64%)	Belgium	unkown
+SRR13173752	Stout Beer (9.64%)	Belgium	unkown
+SRR13173753	Stout Beer (9.64%)	Belgium	unkown
+SRR13173754	Stout Beer (9.64%)	Belgium	unkown
+SRR13173755	Stout Beer (9.64%)	Belgium	unkown
+SRR13173756	Stout Beer (9.64%)	Belgium	unkown
+SRR13182362	Stout Beer (9.64%)	Belgium	unkown
+SRR13182363	Stout Beer (9.64%)	Belgium	unkown
+SRR13182364	Stout Beer (9.64%)	Belgium	unkown
+SRR13182365	Stout Beer (9.64%)	Belgium	unkown
+SRR13182366	Blond Beer (3.12%)	Belgium	unkown
+SRR13182367	Blond Beer (3.12%)	Belgium	unkown
+SRR13182368	Blond Beer (3.12%)	Belgium	unkown
+SRR13182369	Blond Beer (3.12%)	Belgium	unkown
+SRR13182370	Blond Beer (3.12%)	Belgium	unkown
+SRR13182371	Blond Beer (3.12%)	Belgium	unkown
+SRR13182372	Blond Beer (3.12%)	Belgium	unkown
+SRR13182373	Stout Beer (9.64%)	Belgium	unkown
+SRR13182374	Blond Beer (3.12%)	Belgium	unkown
+SRR13182375	Blond Beer (3.12%)	Belgium	unkown
+SRR13182376	Blond Beer (3.12%)	Belgium	unkown
+SRR13182377	Blond Beer (3.12%)	Belgium	unkown
+SRR13182378	Blond Beer (3.12%)	Belgium	unkown
+SRR13182379	Blond Beer (3.12%)	Belgium	unkown
+SRR13182380	Blond Beer (3.12%)	Belgium	unkown
+SRR13182381	Blond Beer (3.12%)	Belgium	unkown
+SRR13182382	Blond Beer (3.12%)	Belgium	unkown
+SRR13182383	Blond Beer (3.12%)	Belgium	unkown
+SRR13182384	Stout Beer (9.64%)	Belgium	unkown
+SRR13182385	Blond Beer (3.12%)	Belgium	unkown
+SRR13182386	Blond Beer (3.12%)	Belgium	unkown
+SRR13182387	Blond Beer (8.88%)	Belgium	unkown
+SRR13182388	Blond Beer (8.88%)	Belgium	unkown
+SRR13182389	Blond Beer (8.88%)	Belgium	unkown
+SRR13182390	Blond Beer (8.88%)	Belgium	unkown
+SRR13182391	Blond Beer (8.88%)	Belgium	unkown
+SRR13182392	Blond Beer (8.88%)	Belgium	unkown
+SRR13182393	Blond Beer (8.88%)	Belgium	unkown
+SRR13182394	Blond Beer (8.88%)	Belgium	unkown
+SRR13182395	Stout Beer (9.64%)	Belgium	unkown
+SRR13182396	Blond Beer (8.88%)	Belgium	unkown
+SRR13182397	Blond Beer (8.88%)	Belgium	unkown
+SRR13182398	Blond Beer (8.88%)	Belgium	unkown
+SRR13182399	Blond Beer (8.88%)	Belgium	unkown
+SRR13182400	Blond Beer (8.88%)	Belgium	unkown
+SRR13182401	Blond Beer (8.88%)	Belgium	unkown
+SRR13182402	Blond Beer (8.88%)	Belgium	unkown
+SRR13182403	Blond Beer (8.88%)	Belgium	unkown
+SRR13182404	Blond Beer (8.88%)	Belgium	unkown
+SRR13182405	Blond Beer (8.88%)	Belgium	unkown
+SRR13182406	Stout Beer (9.64%)	Belgium	unkown
+SRR13182407	Blond Beer (8.88%)	Belgium	unkown
+SRR13182408	Stout Beer (9.64%)	Belgium	unkown
+SRR13182409	Stout Beer (9.64%)	Belgium	unkown
+SRR13182410	Stout Beer (9.64%)	Belgium	unkown
+SRR13182411	Stout Beer (9.64%)	Belgium	unkown
+SRR13182412	Stout Beer (9.64%)	Belgium	unkown
+SRR13182413	Stout Beer (9.64%)	Belgium	unkown
+SRR13182414	Stout Beer (9.64%)	Belgium	unkown
+SRR13182415	Stout Beer (9.64%)	Belgium	unkown
+SRR13182416	Stout Beer (9.64%)	Belgium	unkown
+SRR13182417	Stout Beer (9.64%)	Belgium	unkown
+SRR13182418	Stout Beer (9.64%)	Belgium	unkown
+SRR13187222	Stout Beer (9.64%)	Belgium	unkown
+SRR13187223	Stout Beer (9.64%)	Belgium	unkown
+SRR13187224	Stout Beer (9.64%)	Belgium	unkown
+SRR13187225	Stout Beer (9.64%)	Belgium	unkown
+SRR13187226	Blond Beer (3.12%)	Belgium	unkown
+SRR13187227	Blond Beer (3.12%)	Belgium	unkown
+SRR13187228	Blond Beer (3.12%)	Belgium	unkown
+SRR13187229	Blond Beer (3.12%)	Belgium	unkown
+SRR13187230	Blond Beer (3.12%)	Belgium	unkown
+SRR13187231	Blond Beer (3.12%)	Belgium	unkown
+SRR13187232	Blond Beer (3.12%)	Belgium	unkown
+SRR13187233	Stout Beer (9.64%)	Belgium	unkown
+SRR13187234	Blond Beer (3.12%)	Belgium	unkown
+SRR13187235	Blond Beer (3.12%)	Belgium	unkown
+SRR13187236	Blond Beer (3.12%)	Belgium	unkown
+SRR13187237	Blond Beer (3.12%)	Belgium	unkown
+SRR13187238	Blond Beer (3.12%)	Belgium	unkown
+SRR13187239	Blond Beer (3.12%)	Belgium	unkown
+SRR13187240	Blond Beer (3.12%)	Belgium	unkown
+SRR13187241	Blond Beer (3.12%)	Belgium	unkown
+SRR13187242	Blond Beer (3.12%)	Belgium	unkown
+SRR13187243	Blond Beer (3.12%)	Belgium	unkown
+SRR13187244	Stout Beer (9.64%)	Belgium	unkown
+SRR13187245	Blond Beer (3.12%)	Belgium	unkown
+SRR13187246	Blond Beer (3.12%)	Belgium	unkown
+SRR13187247	Blond Beer (8.88%)	Belgium	unkown
+SRR13187248	Blond Beer (8.88%)	Belgium	unkown
+SRR13187249	Blond Beer (8.88%)	Belgium	unkown
+SRR13187250	Blond Beer (8.88%)	Belgium	unkown
+SRR13187251	Blond Beer (8.88%)	Belgium	unkown
+SRR13187252	Blond Beer (8.88%)	Belgium	unkown
+SRR13187253	Blond Beer (8.88%)	Belgium	unkown
+SRR13187254	Blond Beer (8.88%)	Belgium	unkown
+SRR13187255	Stout Beer (9.64%)	Belgium	unkown
+SRR13187256	Blond Beer (8.88%)	Belgium	unkown
+SRR13187257	Blond Beer (8.88%)	Belgium	unkown
+SRR13187258	Blond Beer (8.88%)	Belgium	unkown
+SRR13187259	Blond Beer (8.88%)	Belgium	unkown
+SRR13187260	Blond Beer (8.88%)	Belgium	unkown
+SRR13187261	Blond Beer (8.88%)	Belgium	unkown
+SRR13187262	Blond Beer (8.88%)	Belgium	unkown
+SRR13187263	Blond Beer (8.88%)	Belgium	unkown
+SRR13187264	Blond Beer (8.88%)	Belgium	unkown
+SRR13187265	Blond Beer (8.88%)	Belgium	unkown
+SRR13187266	Stout Beer (9.64%)	Belgium	unkown
+SRR13187267	Blond Beer (8.88%)	Belgium	unkown
+SRR13187268	Stout Beer (9.64%)	Belgium	unkown
+SRR13187269	Stout Beer (9.64%)	Belgium	unkown
+SRR13187270	Stout Beer (9.64%)	Belgium	unkown
+SRR13187271	Stout Beer (9.64%)	Belgium	unkown
+SRR13187272	Stout Beer (9.64%)	Belgium	unkown
+SRR13187273	Stout Beer (9.64%)	Belgium	unkown
+SRR13187274	Stout Beer (9.64%)	Belgium	unkown
+SRR13187275	Stout Beer (9.64%)	Belgium	unkown
+SRR13187276	Stout Beer (9.64%)	Belgium	unkown
+SRR13187277	Stout Beer (9.64%)	Belgium	unkown
+SRR13187278	Stout Beer (9.64%)	Belgium	unkown
+SRR14325452	Rubi Marzen Lager	Portugal	Essencia DAlma craft brewery
+SRR14325453	Rubi Marzen Lager	Portugal	Essencia DAlma craft brewery
+SRR14325454	Rubi Marzen Lager	Portugal	Essencia DAlma craft brewery
+SRR14325455	Extra Doppelbock Lager	Portugal	Essencia DAlma craft brewery
+SRR14325456	Extra Doppelbock Lager	Portugal	Essencia DAlma craft brewery
+SRR14325457	Extra Doppelbock Lager	Portugal	Essencia DAlma craft brewery
+SRR14325748	Rubi Marzen Lager	Portugal	Essencia DAlma craft brewery
+SRR14325749	Rubi Marzen Lager	Portugal	Essencia DAlma craft brewery
+SRR14325750	Rubi Marzen Lager	Portugal	Essencia DAlma craft brewery
+SRR14325751	Extra Doppelbock Lager	Portugal	Essencia DAlma craft brewery
+SRR14325752	Extra Doppelbock Lager	Portugal	Essencia DAlma craft brewery
+SRR14325753	Extra Doppelbock Lager	Portugal	Essencia DAlma craft brewery
+SRR5740340	Celsius Folamour	Switzerland	Brasserie dAyent
+SRR5740341	Biere de Zinal	Switzerland	Brasserie des 5 quatre mille
+SRR5740342	Ambrée des Brigands du Jorat	Switzerland	Brasserie Du Jorat
+SRR5740343	BE	Switzerland	Bieraria Tschlin
+SRR5740344	La Prudencia	Switzerland	Brasserie du Vieux Chemin
+SRR5740345	Blanche	France	Brasserie Gessienne
+SRR5740346	La Fourbe	Switzerland	Brasserie du Griffon
+SRR5740347	BioLegere	Belgium	Brasserie DuPont
+SRR5740348	La Salamandre	Switzerland	BFM
+SRR5740349	Noire	Switzerland	Brasserie Sierrvoise
+SRR5740350	Tardiv	Switzerland	Brasserie Tardiv
+SRR5740351	Pieuse	Switzerland	Les Murailles
+SRR5740352	Chimay Red Cap	Belgium	Chimay
+SRR5740353	Tripel	Belgium	Chimay
+SRR5740354	La Tourbillon	Switzerland	Brasseurs de Vollèges
+SRR5740355	Calvinus Blanche	Switzerland	Frères Papinot
+SRR5740356	Delirium Tremens	Belgium	Brouwerij Huyghe
+SRR5740357	Houleuse	Switzerland	Docteur Gabs
+SRR5740358	Blonde	Switzerland	Coudres
+SRR5740359	Pale Ale	Switzerland	Coudres
+SRR5740360	Pepite	Switzerland	Docteur Gabs
+SRR5740361	Tempète	Switzerland	Docteur Gabs
+SRR5740362	Waldbier 2014 Wienerwald	Austria	Trumer
+SRR5740363	Embuscade	Switzerland	La Nebuleuse
+SRR5740364	ChichaBeer experimental	Switzerland	La Nébuleuse
+SRR5740365	SquareBeer	Switzerland	Homebrew
+SRR5740366	Roter Baron	Switzerland	Homebrew
+SRR5740367	Amber Ale	Switzerland	Homebrew
+SRR5740368	Fakufaku	Switzerland	Hackuarium
+SRR5740369	Browney	Switzerland	La Mule
+SRR5740370	La Montheysanne	Switzerland	Brasserie Montheysanne
+SRR5740371	La cotta bionda	Italy	La cotta
+SRR5740372	Hoppy Couple	Italy	Birrificio Trunasse
+SRR5740373	Mateo 21	Spain	Mateo & Bernabe
+SRR5740374	Orval	Belgium	Brasserie dOrval
+SRR5740375	La Fraicheur	Switzerland	Trois Dames
+SRR5740376	Valaisanne Amrich	Switzerland	Valaisanne (Feldschlösschen)
+SRR5740377	Stirling	Switzerland	La Nebuleuse
+SRR5740378	Malt Capone	Switzerland	La Nebuleuse
+SRR5890763	Old Warehouse	United States	Epic Ales
+7093173	Chimay	Belgium	Chimay Brewery
+6862301	Chimay	Belgium	Chimay Brewery
+6620898	 la trappe	Netherlands	De Koningshoeven Brewery
