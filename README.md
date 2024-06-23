@@ -3,7 +3,7 @@ Meta-Analysis and Visualization of Beer Microbiome Data
 
 - Dataset (Beer): https://docs.google.com/spreadsheets/d/1RblHxOcXIFd2tg4P7cHtZNuElin5ifOHt_0KawkYU7A/edit?gid=0#gid=0 
 
-- MGnify workflow complete: https://usegalaxy.eu/u/marabesemer/w/mgnifys-amplicon-pipeline-complete 
+- MGnify workflow complete: https://usegalaxy.eu/u/marabesemer/w/mgnifys-amplicon-pipeline-complete \n
  History of MGnify workflow complete with beer dataset: https://usegalaxy.eu/u/marabesemer/h/mgnify-complete-dataset-1
 
 
