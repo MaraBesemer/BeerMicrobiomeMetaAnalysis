@@ -5,7 +5,7 @@ Meta-Analysis and Visualization of Beer Microbiome Data
 
 - MGnify workflow complete: https://usegalaxy.eu/u/marabesemer/w/mgnifys-amplicon-pipeline-complete
 
- History of MGnify workflow complete with beer dataset: https://usegalaxy.eu/u/marabesemer/h/mgnify-complete-dataset-1
+  History of MGnify workflow complete with beer dataset: https://usegalaxy.eu/u/marabesemer/h/mgnify-complete-dataset-1
 
 
 - MGnify workflow after quality control (if complete workflow failed to not run the coplete workflow again): https://usegalaxy.eu/u/marabesemer/w/mgnifys-amplicon-pipeline---after-quality-control 
