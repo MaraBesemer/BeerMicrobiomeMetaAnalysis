@@ -14,4 +14,6 @@ Meta-Analysis and Visualization of Beer Microbiome Data
 - mapseqToAmpviz and AmpvizLoad worfklow: https://usegalaxy.eu/u/marabesemer/w/copy-of-mapseqtoampvis-and-appvisload-1  
   History with OTU_SSU_SILVA input: https://usegalaxy.eu/u/marabesemer/h/mapseqtoampviz-and-ampvizload-v2  
   History with OTU_LSU_SILVA input: https://usegalaxy.eu/u/marabesemer/h/mapseqtoampviz-and-ampvizload-lsu  
-  History with OTU_ITS_UNITE input: https://usegalaxy.eu/u/marabesemer/h/mapseqtoampviz-and-ampvizload-its 
+  History with OTU_ITS_UNITE input: https://usegalaxy.eu/u/marabesemer/h/mapseq-to-ampvis-its-unite     
+  History with OTU_ITSoneDB input: https://usegalaxy.eu/u/marabesemer/h/mapseq-to-ampvis-itsonedb   
+  
