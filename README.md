@@ -9,7 +9,7 @@ Steps:
 
 
 1.2. MGnify workflow after quality control (if complete workflow failed to not run the coplete workflow again): https://usegalaxy.eu/u/marabesemer/w/mgnifys-amplicon-pipeline---after-quality-control  
-  History with beer dataset: https://usegalaxy.eu/u/marabesemer/h/after-quality-control-complete-dataset
+     History with beer dataset: https://usegalaxy.eu/u/marabesemer/h/after-quality-control-complete-dataset
 
 
 2. mapseqToAmpviz and AmpvizLoad worfklow: https://usegalaxy.eu/u/marabesemer/w/copy-of-mapseqtoampvis-and-appvisload-1  
