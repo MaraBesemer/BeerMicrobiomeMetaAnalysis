@@ -12,7 +12,7 @@
 
 - **Workflow Link**: [MGnify's Amplicon Pipeline Complete](https://usegalaxy.eu/u/marabesemer/w/mgnifys-amplicon-pipeline-complete)
 - **Inputs**:
-  - **SRA Accession List**: Text file listing accession IDs (from the Beer dataset).
+  - **SRA Accession List**: [listing accession IDs](https://github.com/MaraBesemer/BeerMicrobiomeMetaAnalysis/blob/main/input_tabular.txt)
   - **Clan Information File**: [ribo.claninfo file](https://github.com/MaraBesemer/BeerMicrobiomeMetaAnalysis/blob/main/ribo.claninfo.txt)
   - **Covariance Models**: [ribo.cm file](https://github.com/MaraBesemer/BeerMicrobiomeMetaAnalysis/blob/main/ribo.cm)
 - **Workflow History**: [History with Beer Dataset](https://usegalaxy.eu/u/marabesemer/h/mgnify-complete-dataset-1)
