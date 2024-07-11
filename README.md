@@ -1,4 +1,4 @@
-# BeerMicrobiomeMetaAnalysis
+# Beer Microbiome Meta-Analysis
 
 ## Meta-Analysis and Visualization of Beer Microbiome Data
 
@@ -27,7 +27,6 @@
   - **Covariance Models**: [ribo.cm file](https://github.com/MaraBesemer/BeerMicrobiomeMetaAnalysis/blob/main/ribo.cm)
 - **Workflow History**: [History with Beer Dataset](https://usegalaxy.eu/u/marabesemer/h/after-quality-control-complete-dataset)
 
-
 #### 3. mapseqToAmpviz and AmpvizLoad Workflow
 
 - **Workflow Link**: [mapseqToAmpviz and AmpvizLoad Workflow](https://usegalaxy.eu/u/marabesemer/w/copy-of-mapseqtoampvis-and-appvisload-1)
@@ -39,8 +38,6 @@
   - [OTU_LSU_SILVA Input](https://usegalaxy.eu/u/marabesemer/h/mapseqtoampviz-and-ampvizload-lsu)
   - [OTU_ITS_UNITE Input](https://usegalaxy.eu/u/marabesemer/h/mapseq-to-ampvis-its-unite)
   - [OTU_ITSoneDB Input](https://usegalaxy.eu/u/marabesemer/h/mapseq-to-ampvis-itsonedb)
-
-After the data preperation, the ampviz2 ready data can be processed with ampviz2 tools. I used the [apviz2 heatmap tool](https://usegalaxy.eu/?tool_id=toolshed.g2.bx.psu.edu%2Frepos%2Fiuc%2Fampvis2_heatmap%2Fampvis2_heatmap%2F2.8.6%2Bgalaxy1&version=latest) to create heatmaps to show the data more clearly.
 
 ### Data Visualization with Ampvis2
 
@@ -67,8 +64,6 @@ After completing the data preparation workflows, the processed data can be visua
 For example, using the OTU_ITS_UNITE input aggregated at the species level and grouped by beer type, the resulting heatmap provides a clear visualization of the data. 
 
 Sample output can be seen here:
-[Galaxy1742-[ampvis2_heatmap_on_data_1394_and_data_1393].pdf](https://github.com/user-attachments/files/16174758/Galaxy1742-.ampvis2_heatmap_on_data_1394_and_data_1393.pdf)
+[![Heatmap Preview](https://github.com/MaraBesemer/BeerMicrobiomeMetaAnalysis/blob/main/sample_heatmap.png)](https://github.com/MaraBesemer/BeerMicrobiomeMetaAnalysis/blob/main/Galaxy1742-.ampvis2_heatmap_on_data_1394_and_data_1393.pdf)
 
 By following these steps, you can generate informative heatmaps to visualize the microbiome data from beer samples effectively.
-
-
