@@ -6,7 +6,7 @@ Meta-Analysis and Visualization of Beer Microbiome Data
 Steps:
 1.  MGnify workflow complete: https://usegalaxy.eu/u/marabesemer/w/mgnifys-amplicon-pipeline-complete
        
-    Inputs:
+    Inputs:  
     SRA accession list: txt file where accession ids are listet below each other (in my case the accession from the dataset (Beer))  
     Clan information file: robi.claninfo file (https://github.com/MaraBesemer/BeerMicrobiomeMetaAnalysis/blob/main/ribo.claninfo.txt)  
     Covariance models: ribo.cm file (https://github.com/MaraBesemer/BeerMicrobiomeMetaAnalysis/blob/main/ribo.cm)  
@@ -16,7 +16,7 @@ Steps:
 
 2. MGnify workflow after quality control (if complete workflow failed, to not run the coplete workflow again I only ran the after quality workflow with the merged results): https://usegalaxy.eu/u/marabesemer/w/mgnifys-amplicon-pipeline---after-quality-control
       
-   Inputs:
+   Inputs:  
    Processed sequences:  
    Clan information file: robi.claninfo file   
    Covariance models: ribo.cm file
@@ -26,7 +26,7 @@ Steps:
 
 3. mapseqToAmpviz and AmpvizLoad worfklow: https://usegalaxy.eu/u/marabesemer/w/copy-of-mapseqtoampvis-and-appvisload-1
      
-   Inputs:
+   Inputs:  
    mapseq outputs: each output (otu_SSU_SILVA, OTU_LSU_SILVA...) from the MGnify workflow
    Metadata: corresponding metadata to the dataset which is used (link)
      
