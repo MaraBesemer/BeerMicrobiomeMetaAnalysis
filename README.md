@@ -33,7 +33,7 @@
 - **Workflow Link**: [mapseqToAmpviz and AmpvizLoad Workflow](https://usegalaxy.eu/u/marabesemer/w/copy-of-mapseqtoampvis-and-appvisload-1)
 - **Inputs**:
   - **mapseq Outputs**: Each output (OTU_SSU_SILVA, OTU_LSU_SILVA, etc.) from the MGnify workflow
-  - **Metadata**: Corresponding metadata for the dataset used
+  - **Metadata**: [Metadata Beer](https://github.com/MaraBesemer/BeerMicrobiomeMetaAnalysis/blob/main/Metadata-formatted.txt)
 - **Workflow Histories**:
   - [OTU_SSU_SILVA Input](https://usegalaxy.eu/u/marabesemer/h/mapseqtoampviz-and-ampvizload-v2)
   - [OTU_LSU_SILVA Input](https://usegalaxy.eu/u/marabesemer/h/mapseqtoampviz-and-ampvizload-lsu)
