@@ -17,7 +17,8 @@
   - **Covariance Models**: [ribo.cm file](https://github.com/MaraBesemer/BeerMicrobiomeMetaAnalysis/blob/main/ribo.cm)
 - **Workflow History**: [History with Beer Dataset](https://usegalaxy.eu/u/marabesemer/h/mgnify-complete-dataset-1)
 
-#### 2. MGnify Workflow After Quality Control (this workflow is only needed if the complete workflow failed, for not running the hole workflow again)
+#### 2. MGnify Workflow After Quality Control
+*(This workflow is not necessary and was only used because the complete workflow failed at the end. I didn't want to run the whole workflow again.)*
 
 - **Workflow Link**: [MGnify's Amplicon Pipeline - After Quality Control](https://usegalaxy.eu/u/marabesemer/w/mgnifys-amplicon-pipeline---after-quality-control)
 - **Inputs**:
@@ -25,6 +26,7 @@
   - **Clan Information File**: [ribo.claninfo file](https://github.com/MaraBesemer/BeerMicrobiomeMetaAnalysis/blob/main/ribo.claninfo.txt)
   - **Covariance Models**: [ribo.cm file](https://github.com/MaraBesemer/BeerMicrobiomeMetaAnalysis/blob/main/ribo.cm)
 - **Workflow History**: [History with Beer Dataset](https://usegalaxy.eu/u/marabesemer/h/after-quality-control-complete-dataset)
+
 
 #### 3. mapseqToAmpviz and AmpvizLoad Workflow
 
